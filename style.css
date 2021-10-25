@@ -244,10 +244,16 @@ body .gist .gist-meta {
 
 .fullwidth {
   width: 100%; 
-  height:100%;
   float: left;
   margin-bottom: 20px;
   margin-top: 10px
 
 }
+
+.fullwidth img{
+  width: 500px;
+  height: 100%;
+}
+
+#
 
